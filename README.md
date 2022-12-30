@@ -1,4 +1,4 @@
-# Module-11-Homework
+# AnthonyQuiles/Forecasting-Net-Profit
 ## Forecasting Net Profit
 
 You're a growth analyst at [MercadoLibre](http://investor.mercadolibre.com/investor-relations). With over 200 million users, MercadoLibre is the most popular e-commerce site in Latin America. You've been tasked with analyzing the company's financial and user date in clever ways to make the company grow. So, you want to find out if the ability to predict search traffic can transalet into the ability to succesfully trade the stock.
